@@ -1,5 +1,5 @@
 # Hey, I'm Erick! 👋
-    Welcome to my GitHub corner! I'm a data science student at Descomplica College and I'm thrilled to share my journey through data and code with you.
+Welcome to my GitHub corner! I'm a data science student at Descomplica College and I'm thrilled to share my journey through data and code with you.
 
 - [LinkedIn](https://www.linkedin.com/in/egaldino03/)
 - [GitHub](https://github.com/egaldino03)
@@ -8,7 +8,7 @@
 ---
 
 ## Languages and Technologies 🖥️
-    These are the Technologies i'm currently working with and also the ones i plan to incorporate into my stack:
+These are the Technologies i'm currently working with and also the ones i plan to incorporate into my stack:
 
 ### Current Stack
 - **Python**
