@@ -1,9 +1,14 @@
 # Hey, I'm Erick! 👋
+    Welcome to my GitHub corner! I'm a data science student at Descomplica College and I'm thrilled to share my journey through data and code with you.
 
-Welcome to my GitHub corner! I'm a data science student at Descomplica College and I'm thrilled to share my journey through data and code with you.
+- [LinkedIn](https://www.linkedin.com/in/egaldino03/)
+- [GitHub](https://github.com/egaldino03)
+- [DIO Profile](https://www.dio.me/users/erickga2014)
+
+---
 
 ## Languages and Technologies 🖥️
-These are the Technologies i'm currently working with and also the ones i plan to incorporate into my stack:
+    These are the Technologies i'm currently working with and also the ones i plan to incorporate into my stack:
 
 ### Current Stack
 - **Python**
@@ -31,10 +36,9 @@ I'm a firm believer in continuous learning. Whether it's a new algorithm, a diff
 
 ## Let's Collaborate 🤝
 
-I'm all about collaboration and teamwork. If you're passionate about data, coding, or anything at the intersection of technology and insights, let's connect! Feel free to reach out on LinkedIn: (https://www.linkedin.com/in/egaldino03)
+I'm all about collaboration and teamwork. If you're passionate about data, coding, or anything at the intersection of technology and insights, let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/egaldino03)!
 
 ## Currently Exploring...
-
 Right now, I'm delving into Pandas and Matplotlib for creating awesome data visualizations capable of making the viewers captivated. Stay tuned for some exciting projects in this space!
 
 Thanks for stopping by, and happy coding!
