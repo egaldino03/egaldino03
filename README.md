@@ -1,44 +1,37 @@
-# Hey, I'm Erick! 👋
-Welcome to my GitHub corner! I'm a data science student at Descomplica College and I'm thrilled to share my journey through data and code with you.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7c6ff&height=120&section=header"/>
 
-- [LinkedIn](https://www.linkedin.com/in/egaldino03/)
-- [GitHub](https://github.com/egaldino03)
-- [DIO Profile](https://www.dio.me/users/erickga2014)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e7c6ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Erick+Galdino+;Sou+do+Brasil,+SP;estudo+ciencia+de+dados+pelo+Descomplica;Seja+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
----
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=egaldino03&show_icons=true&count_private=true&hide_border=true&title_color=e7c6ff&icon_color=e7c6ff&text_color=c9d1d9&bg_color=0d1117" alt="Erick Galdino github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egaldino03&layout=compact&hide_border=true&title_color=e7c6ff&text_color=e7c6ff&bg_color=0d1117" />
+</div>
 
-## Languages and Technologies 🖥️
-These are the Technologies i'm currently working with and also the ones i plan to incorporate into my stack:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=egaldino03&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Current Stack
-- **Python**
-- **SQL**
-- **Java**
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=egaldino03&theme=gotham&background=0d1117&border=e7c6ff&stroke=e7c6ff&ring=e7c6ff&fire=e7c6ff&currStreakNum=e7c6ff&currStreakLabel=e7c6ff&sideNums=e7c6ff&sideLabels=e7c6ff" alt="GitHub Streak Stats" /></a>
+</div>
 
-### Plan on incorporating:
-- **VBA**
-- **R**
-- **Tableau**
-- **Power BI**
-- **MongoDB**
+### PRINCIPAIS HABILIDADES:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-## What Fires Me Up 🔥
+### FERRAMENTAS:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- **Data Wrangling**: I love the puzzle of cleaning and organizing messy data. Python and SQL are my trusty tools, and I'm always up for a good data wrangling challenge.
+  
+### ESTUDANDO NO MOMENTO:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-- **Machine Learning**: From predictive models to clustering, I'm diving into the world of machine learning. I'm exploring libraries like scikit-learn and TensorFlow to bring data to life.
 
-- **Visualizing Insights**: Data tells stories, and I enjoy using tools like Matplotlib and Seaborn to create visual narratives that make complex insights easy to grasp.
-
-## Lifelong Learning 📚
-
-I'm a firm believer in continuous learning. Whether it's a new algorithm, a different statistical approach, or a fresh coding technique, I'm excited to expand my skill set and grow as a data scientist.
-
-## Let's Collaborate 🤝
-
-I'm all about collaboration and teamwork. If you're passionate about data, coding, or anything at the intersection of technology and insights, let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/egaldino03)!
-
-## Currently Exploring...
-Right now, I'm delving into Pandas and Matplotlib for creating awesome data visualizations capable of making the viewers captivated. Stay tuned for some exciting projects in this space!
-
-Thanks for stopping by, and happy coding!
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{egaldino03}/count.svg" /></p> 
+<br></div>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7c6ff&height=120&section=footer"/>
